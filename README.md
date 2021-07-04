@@ -1,2 +1,4 @@
 # Welcome Everyone!, I'm Uziel
-<h1>Backend Developer and Next IT and AI Engineer</h1>
+<h2>Backend Developer and Next IT and AI Engineer</h2>
+
+![img](https://github.com/Aplex2723/Curso-JS-Moderno/blob/20-PROYECTO-Carrito-LS/img/cart.png?raw=true)
