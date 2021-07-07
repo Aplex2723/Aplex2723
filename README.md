@@ -37,7 +37,7 @@
 <a href="#"><img src="https://camo.githubusercontent.com/d15a14a8572c6b98dcf504f380b7449d7cef48cd2f0b75e2c9754d43be080054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772532302d2532334646364630302e7376673f6c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
 <p><i>Not all of this mastered</i></p>
 
-<img src="https://www.pngplay.com/wp-content/uploads/8/Rapid-Technology-PNG-HD-Quality.png">
+<img src="https://cloud-ascent.com/wp-content/uploads/2020/05/header-tech-city-dots-transp.png">
 
 
 
