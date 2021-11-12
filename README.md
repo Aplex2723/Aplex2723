@@ -1,5 +1,5 @@
 # Welcome Everyone!, I'm Uziel - aka <span style="color: blue;">Aplex27</span> <img src="https://1.bp.blogspot.com/-VLoHuZg0GR4/XJyAnB_x8TI/AAAAAABF_60/n1bae3cBX_ATbuw3kdHnV7phzyemfauBQCLcBGAs/s1600/AW3794515_02.gif" alt="hiGif" width="45" height="45">
-<h3>Backend Developer and Next IT and AI Engineer</h3>
+<h3>Full-Stack Developer and Next IT and AI Engineer</h3>
 <p><a target="_blank"><img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" style="max-width:100%;" height="160px" align="right"> </a></p>
 <h2> 📚 About Me </h2>
 <ul>
