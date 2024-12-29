@@ -1,12 +1,14 @@
-# Welcome Everyone!, I'm Uziel - aka <span style="color: blue;">Aplex27</span> <img src="https://1.bp.blogspot.com/-VLoHuZg0GR4/XJyAnB_x8TI/AAAAAABF_60/n1bae3cBX_ATbuw3kdHnV7phzyemfauBQCLcBGAs/s1600/AW3794515_02.gif" alt="hiGif" width="45" height="45">
-<h3>Full-Stack Developer and Next AI Engineer</h3>
+# Welcome Everyone!, I'm Uziel <img src="https://1.bp.blogspot.com/-VLoHuZg0GR4/XJyAnB_x8TI/AAAAAABF_60/n1bae3cBX_ATbuw3kdHnV7phzyemfauBQCLcBGAs/s1600/AW3794515_02.gif" alt="hiGif" width="45" height="45">
+<h3>AI Engineer & Python Developer</h3>
 <p><a target="_blank"><img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" style="max-width:100%;" height="160px" align="right"> </a></p>
 <h2> 📚 About Me </h2>
 <ul>
-  <li> 💻 I love all things related by the computers and technology </li>
-  <li> 📙 IT Student on <a href="https://merida.anahuac.mx/licenciaturas/ingenieria-y-ciencias-exactas/ingenieria-en-tecnologias-de-informacion-y-negocios-digitales">Anáhuac Mayab</a></li>
-  <li> 💾 3 Years of experience doing Game Servers like <a href="https://fivem.net">FiveM</a> and Minecraft</li>
-  <li> 🏆 Life goal: Be a AI Engineer 🤖 or Data Scientist 📀</li>
+  <li> 💻 Passionate about computers and technology since childhood. </li>
+  <li> 📙 IT Student at <a href="https://merida.anahuac.mx/licenciaturas/ingenieria-y-ciencias-exactas/ingenieria-en-tecnologias-de-informacion-y-negocios-digitales">Anáhuac Mayab</a></li>
+  <li> 💾 6 years of experience in software development, specializing in back-end development. </li>
+  <li> 👨‍💻 Former Technical Support Engineer at Microsoft, specializing in AI services. </li>
+  <li> 🤖 Currently focused on developing intelligent chatbots, with 4 years of experience in the LLM field. </li>
+  <li> 🏆 Life goal: Help and innovate in the world of Artificial Intelligence. </li>
 </ul>
 
 <h1> 👩‍💻 Social Media </h1>
