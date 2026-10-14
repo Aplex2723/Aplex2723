@@ -1,47 +1,81 @@
-# Welcome Everyone!, I'm Uziel <img src="https://1.bp.blogspot.com/-VLoHuZg0GR4/XJyAnB_x8TI/AAAAAABF_60/n1bae3cBX_ATbuw3kdHnV7phzyemfauBQCLcBGAs/s1600/AW3794515_02.gif" alt="hiGif" width="45" height="45">
-<h3>AI Engineer & Python Developer</h3>
-<p><a target="_blank"><img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" style="max-width:100%;" height="160px" align="right"> </a></p>
-<h2> 📚 About Me </h2>
-<ul>
-  <li> 💻 Passionate about computers and technology since childhood. </li>
-  <li> 📙 IT Student at <a href="https://merida.anahuac.mx/licenciaturas/ingenieria-y-ciencias-exactas/ingenieria-en-tecnologias-de-informacion-y-negocios-digitales">Anáhuac Mayab</a></li>
-  <li> 💾 6 years of experience in software development, specializing in back-end development. </li>
-  <li> 👨‍💻 Former Technical Support Engineer at Microsoft, specializing in AI services. </li>
-  <li> 🤖 Currently focused on developing intelligent chatbots, with 4 years of experience in the LLM field. </li>
-  <li> 🏆 Life goal: Help and innovate in the world of Artificial Intelligence. </li>
-</ul>
+<h1 align="center">Hi, I'm Uziel 👋</h1>
+<h3 align="center">Senior AI Engineer · Generative AI · Voice AI · Cloud</h3>
 
-<h1> 👩‍💻 Social Media </h1>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCPNQjNi2CsiHSGpV_dmr-gw" rel="nofollow"><img alt="Youtube" title="Youtube" src="https://camo.githubusercontent.com/598c78f4e374db546402736ffdfdd9b7607500135657107d43e38199e8fa3a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75547562652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href="https://twitter.com/Aplex27" rel="nofollow"><img alt="Twitter" title="Twitter" src="https://camo.githubusercontent.com/8782839e5cf8005144a4c221dc8ba4c5b6ed80dce13b270d31470cd2a170ebb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href="https://discord.gg/RzKXkUugEu" alt="Aplex Discord Sever" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d58310ea1fd1cae2e03b2d3d1cab03e7105fa43c83de6f577048c929cf97d3ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d646973636f7264" data-canonical-src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&amp;logoColor=white&amp;logo=discord" style="max-width:100%;"></a>
-  <a href="https://www.linkedin.com/in/uziel-t-1b7988215/" rel="nofollow"><img src="https://camo.githubusercontent.com/a21dd661508f600d545c254d21aa4e2a6f003362edeee147dd8ac14d76ade072/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href="https://github.com/Aplex2723"><img src="https://camo.githubusercontent.com/8bfbdd7d64ac7d14fe465cda9b1d5bb1ea174cc2d2ad19d3187adff2e3b5da13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/Github-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>
+  I design and build production-grade conversational AI systems, from chatbots and virtual assistants to real-time voice platforms.
 </p>
 
-<h1> 🌟My Stats </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernardo-uziel-franco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codey-tech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://twitter.com/Aplex27"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCPNQjNi2CsiHSGpV_dmr-gw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://discord.gg/RzKXkUugEu"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aplex2723&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aplex2723&layout=compact&theme=dark)
+---
 
-  
-<h1> 🥇 Technology Skills </h1>
-<h2> ⚙ Programming Lenguages and Frameworks </h2>
-<a href="#"><img src="https://camo.githubusercontent.com/7a48ad3028bc23b33e755e555609a4ccdd3ba1ef6fb92aa2214eea10e3b7e184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/637695999d1efdd26928d6bd67b6463be9f92ee26b85f5b3d624da7b4d1ebccb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/7cddeb568312f0ebc19929baf072724a8537f28da2dd29278c8bfa6867ab3e3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532302d2532334533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/c8733604360c25e4cf34c8415bf9093104206dccd164b2a1cd7d1e2711d4d4f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/36097c79200c1fd6e12ab1f395d919629a1f972b17850aea14dec08d5c0de9d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/725302ac530b30dcf46a7b734b171522324cdb0c2f4baf48f5806074dc581b91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742532302d2532333230323332612e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/9d2c420a6150c7fa869d229dbafe4cdc3294a7e9353b0901230d6a1da1ada37c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792532302d2532333031333234332e7376673f6c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/d15a14a8572c6b98dcf504f380b7449d7cef48cd2f0b75e2c9754d43be080054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772532302d2532334646364630302e7376673f6c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" style="max-width:100%;"></a>
-<p><i>Not all of this mastered</i></p>
+## 🧠 What I do
 
-![image](https://user-images.githubusercontent.com/72839304/124816940-bac69c00-df2e-11eb-94db-9949362424d5.png)
+I'm an AI engineer with 6+ years of experience, focused on **Generative AI, LLMs, RAG and AI services**. I own the full lifecycle of an AI solution: architecture, model strategy, and scalable deployment in production.
 
+- 🤖 **Conversational AI**: chatbots, virtual assistants and agents that can reason, call tools and take actions.
+- 🎙️ **Voice AI**: low-latency, highly available voice platforms built to handle large call volumes.
+- 📚 **RAG & multimodal systems**: retrieval pipelines over text, images and structured data.
+- ☁️ **Cloud-native AI & MLOps**: deploying and operating AI systems on Azure (AKS), AWS and GCP.
+- 🧭 **Technical leadership**: turning complex business needs into robust, scalable solutions, and mentoring other engineers along the way.
 
+## 🛠️ Tech stack
 
+**AI / LLM**
 
+![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## 🎓 Education & certifications
+
+- 📙 Engineering in Information Technology and Digital Business at [Universidad Anáhuac Mayab](https://merida.anahuac.mx/licenciaturas/ingenieria-y-ciencias-exactas/ingenieria-en-tecnologias-de-informacion-y-negocios-digitales)
+- 🏅 AI Fluency: Framework & Foundations, Anthropic
+
+## 🚀 Featured project
+
+- **[neuralco-crm-django](https://github.com/Aplex2723/neuralco-crm-django)**: an open-source SaaS CRM built with Django, extending BottleCRM with new features and updated apps.
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aplex2723&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aplex2723&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  🏆 <i>Goal: help and innovate in the world of Artificial Intelligence.</i>
+</p>
